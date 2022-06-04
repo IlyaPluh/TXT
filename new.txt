@@ -1,0 +1,5 @@
+name Ilya
+age 34
+pet 1
+earn 5000
+
